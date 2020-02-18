@@ -1,0 +1,15 @@
+.idea/
+*.pyc
+
+/static/*
+/media/*
+
+tmp/
+venv/
+env/
+
+
+test_settings.py
+local_settings.py
+local_middleware.py
+
