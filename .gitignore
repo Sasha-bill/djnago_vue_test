@@ -8,8 +8,20 @@ tmp/
 venv/
 env/
 
+db.sqlite3
 
 test_settings.py
 local_settings.py
 local_middleware.py
 
+# User-uploaded media
+staticfiles/
+.cache/
+
+ ￼
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
